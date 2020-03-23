@@ -13,4 +13,8 @@ Modelado de plataforma web de concesionaria de vehículos de alta gama, usando U
 
 ## Casos de Uso:
 
-![Casos de uso](https://user-images.githubusercontent.com/15526824/77363441-bd44b880-6d20-11ea-8c72-46e002abf3ca.jpg)
+![Casos de uso](https://user-images.githubusercontent.com/15526824/77363865-7a371500-6d21-11ea-882c-f0c566c958f7.jpg)
+
+## Diagrama de Clases:
+
+## Diagrama de Actividades:
