@@ -17,4 +17,6 @@ Modelado de plataforma web de concesionaria de vehículos de alta gama, usando U
 
 ## Diagrama de Clases:
 
+![Diagrama clases](https://user-images.githubusercontent.com/15526824/77369096-bf604480-6d2b-11ea-937c-07610cc15a85.jpg)
+
 ## Diagrama de Actividades:
