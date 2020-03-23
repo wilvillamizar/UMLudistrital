@@ -7,8 +7,8 @@ Modelado de plataforma web de concesionaria de vehículos de alta gama, usando U
 
 Integrantes:
 
-Wilson Heli Villamizar Valencia (20201099050) 
-Alejandro Lopez Castañeda       (20201099037)
-Jhon Fredy Torres Ramírez       (20201099048)
+- Wilson Heli Villamizar Valencia (20201099050) 
+- Alejandro Lopez Castañeda       (20201099037)
+- Jhon Fredy Torres Ramírez       (20201099048)
 
 
