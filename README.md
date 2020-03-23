@@ -5,7 +5,7 @@ Modelado de plataforma web de concesionaria de vehículos de alta gama, usando U
 - la aceleración del vehículo.
 - la potencia del motor.
 
-###Integrantes:
+## Integrantes:
 
 - Wilson Heli Villamizar Valencia (20201099050) 
 - Alejandro Lopez Castañeda       (20201099037)
