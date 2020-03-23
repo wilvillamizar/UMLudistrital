@@ -12,3 +12,4 @@ Modelado de plataforma web de concesionaria de vehículos de alta gama, usando U
 - Jhon Fredy Torres Ramírez       (20201099048)
 
 
+![Casos de uso](https://user-images.githubusercontent.com/15526824/77363441-bd44b880-6d20-11ea-8c72-46e002abf3ca.jpg)
